@@ -1,0 +1,18 @@
+.text {
+	font-size: 130%;
+	font-family: Georgia, times, serif;
+}
+header {
+	position: sticky;
+	top: 0;
+	background-color: rgb(100,125,125,1);
+	border: 2px solid black;
+	text-align: center;
+	border-radius: 7px;
+}
+body {
+	min-height: 1000px;
+}
+footer {
+	min-height: 1000px;
+}
